@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android-app</string>
+    <string name="hello_world">Hello world</string>
+    <string name="enter_the_first_number">Enter the first number</string>
+    <string name="enter_the_second_number">Enter the second number</string>
+    <string name="result">Result:</string>
+    <string name="calculate">Calculate</string>
+</resources>
